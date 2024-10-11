@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6ffa43a7-d2dd-4cd4-a3d7-00f4416f50f8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/homework/ss5/index4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thuc_hanh/ss6/đ tb/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thuc_hanh/ss6/đ tb/node.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/index.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,11 +19,15 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/test.html" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
@@ -63,7 +68,7 @@
       <updated>1728304840294</updated>
       <workItem from="1728304841567" duration="4425000" />
       <workItem from="1728478731752" duration="5254000" />
-      <workItem from="1728633194665" duration="4361000" />
+      <workItem from="1728633194665" duration="10001000" />
     </task>
     <servers />
   </component>
