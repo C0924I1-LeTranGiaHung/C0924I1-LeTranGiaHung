@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+  <label>Number 1</label>
+  <input class="first" type="number"> <br/>
+  <label>Number 2</label>
+  <input class="second" type="number" style="margin-top: 20px">
+  <button id="total"></button>
+</body>
+</html>
+<script>
+    const number1 = document.getElementsByClassName("first").value;
+    const number2 = document.getElementsByClassName("second").value;
+    let total = document.getElementById("total")
+    total.addEventListener("click", totalfunction)
+    function totalfunction() {
+      let sum = number1 + number2;
+      alert(sum)
+    }
+</script>

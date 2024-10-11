@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6ffa43a7-d2dd-4cd4-a3d7-00f4416f50f8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/homework/ss5/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/ss5/index2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/ss5/index3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thuc_hanh/ss5/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/ss5/index4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,11 +62,24 @@
       <option name="presentableId" value="Default" />
       <updated>1728304840294</updated>
       <workItem from="1728304841567" duration="4425000" />
-      <workItem from="1728478731752" duration="4535000" />
+      <workItem from="1728478731752" duration="5254000" />
+      <workItem from="1728633194665" duration="4361000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/test/index.html</url>
+          <line>18</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
