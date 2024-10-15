@@ -5,10 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6ffa43a7-d2dd-4cd4-a3d7-00f4416f50f8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/thuc_hanh/ss6/đ tb/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thuc_hanh/ss6/đ tb/node.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/ss7/B1/b1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/ss7/B1/b1/node.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/ss7/B1/b2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/ss7/B1/b2/node2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/ss7/B1/b3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/ss7/B1/b3/node.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/ss7/B2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/ss7/B2/node.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/index.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +73,10 @@
       <updated>1728304840294</updated>
       <workItem from="1728304841567" duration="4425000" />
       <workItem from="1728478731752" duration="5254000" />
-      <workItem from="1728633194665" duration="10001000" />
+      <workItem from="1728633194665" duration="10597000" />
+      <workItem from="1728664896944" duration="1000" />
+      <workItem from="1728911532891" duration="2543000" />
+      <workItem from="1728980383435" duration="3366000" />
     </task>
     <servers />
   </component>
@@ -81,7 +89,6 @@
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/test/index.html</url>
           <line>18</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
