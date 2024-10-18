@@ -1,4 +1,4 @@
-function cal() {
+function calculate() {
     let a = +prompt("Enter the first number");
     let b = +prompt("Enter the second number");
     if (a % b == 0) {
