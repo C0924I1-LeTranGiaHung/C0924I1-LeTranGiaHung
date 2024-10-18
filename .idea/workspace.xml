@@ -5,14 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6ffa43a7-d2dd-4cd4-a3d7-00f4416f50f8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/homework/ss7/B1/b1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/ss7/B1/b1/node.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/ss7/B1/b2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/ss7/B1/b2/node2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/ss7/B1/b3/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/ss7/B1/b3/node.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/ss7/B2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/ss7/B2/node.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/ss8/B1/b1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/ss8/B1/b1/node.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/ss8/B1/b2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/ss8/B1/b2/node.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/ss8/B1/b3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/ss8/B1/b3/node.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/ss8/B1/b4/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/ss8/B1/b4/node.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/ss8/B1/b5/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/ss8/B1/b5/node.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/ss8/B1/b6/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/ss8/B1/b6/node.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thuc_hanh/ss8/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,8 +28,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -77,6 +82,8 @@
       <workItem from="1728664896944" duration="1000" />
       <workItem from="1728911532891" duration="2543000" />
       <workItem from="1728980383435" duration="3366000" />
+      <workItem from="1729081598524" duration="1141000" />
+      <workItem from="1729239014032" duration="5384000" />
     </task>
     <servers />
   </component>
