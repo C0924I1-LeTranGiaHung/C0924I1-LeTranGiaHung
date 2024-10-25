@@ -5,14 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6ffa43a7-d2dd-4cd4-a3d7-00f4416f50f8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/homework/ss10/B1/b1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/ss10/B1/b1/node.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/ss10/B1/b2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/ss10/B1/b2/node.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/ss10/B1/b3/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/ss10/B1/b3/node.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/ss10/B1/b6/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/ss10/B1/b6/node.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss11/b1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss11/b1/node.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss11/b2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss11/b2/node.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,6 +52,11 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\7. Personal\2. Codegym\module1\ss11\b1" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -81,6 +82,7 @@
       <workItem from="1729239014032" duration="8576000" />
       <workItem from="1729435638627" duration="4356000" />
       <workItem from="1729586641568" duration="5193000" />
+      <workItem from="1729691456046" duration="1324000" />
     </task>
     <servers />
   </component>
