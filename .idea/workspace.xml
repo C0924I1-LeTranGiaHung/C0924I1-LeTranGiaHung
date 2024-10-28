@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6ffa43a7-d2dd-4cd4-a3d7-00f4416f50f8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ss11/b1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss11/b1/node.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss11/b2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss11/b2/node.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/ss12/b1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/ss12/b1/nide.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/ss12/b2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/ss12/b2/node.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thuc_hanh/ss12/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thuc_hanh/ss12/node.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -30,6 +32,9 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/test.html" root0="SKIP_INSPECTION" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -49,6 +54,7 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;onboarding.tips.debug.path&quot;: &quot;D:/7. Personal/2. Codegym/module1/src/main.js&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.qodana&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -83,6 +89,9 @@
       <workItem from="1729435638627" duration="4356000" />
       <workItem from="1729586641568" duration="5193000" />
       <workItem from="1729691456046" duration="1324000" />
+      <workItem from="1729848429404" duration="1511000" />
+      <workItem from="1729859019785" duration="1309000" />
+      <workItem from="1730095323428" duration="1596000" />
     </task>
     <servers />
   </component>
